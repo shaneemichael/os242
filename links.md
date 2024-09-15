@@ -8,9 +8,9 @@ permalink: LINKS/
 * [Operating Systems](https://os.vlsm.org/) 
 
   Contains links to lecture materials, exam questions, and laboratory materials for OS 242.
-* [OS Powerpoints]
+* [OS Powerpoints](https://codex.cs.yale.edu/avi/os-book/OS10/slide-dir/)
 
-  https://codex.cs.yale.edu/avi/os-book/OS10/slide-dir/
+  OS Materials
 
 ## Week 00 ##
 * [Github for Beginners](https://www.youtube.com/watch?v=RGOj5yH7evk)
