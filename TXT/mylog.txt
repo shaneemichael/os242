@@ -10,6 +10,8 @@ ZCZC W03 60 L15 Finish Assignment #05
 ZCZC W03 30 L41 Do Week02 mylog.txt
 ZCZC W03 200 L06 Watching videos and studying about Cyber Security, Regex, etc.
 ZCZC W03 150 L05 Studies for quiz and checked that there is no quiz
+ZCZC W03 45 L00 GSGS for Backing Up and Assignment
+ZCZC W03 60 L61 Backup Virtual Box
 ZCZC W03 100 L02 Class at 18-09-2024
 
 ZCZC W02 20 L11 Finish Assignment #01
