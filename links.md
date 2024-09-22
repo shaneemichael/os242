@@ -35,6 +35,17 @@ permalink: LINKS/
 * [Assignment](https://demos.vlsm.org/)
 
   Assignment to boost your understanding on the material.
+
+## Week 03 ##
+* [VirtualBox Tutorial](https://www.youtube.com/watch?v=sB_5fqiysi4)
+
+  Tutorial on how to use VirtualBox for beginners.
+* [Bash Scripting Tutorial](https://www.youtube.com/watch?v=tK9Oc6AEnR4&t=381s)
+
+  Short tutorial on bash scripting
+* [Assignment](https://demos.vlsm.org/)
+
+  Assignment to boost your understanding on the material.
   
 <br>
 <br>
