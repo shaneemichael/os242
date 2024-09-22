@@ -2,6 +2,16 @@
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://doit.vlsm.org/ETC/logCodes.txt
 
+ZCZC W03 30 L11 Finish Assignment #01
+ZCZC W03 30 L12 Finish Assignment #02
+ZCZC W03 30 L13 Finish Assignment #03
+ZCZC W03 30 L14 Finish Assignment #04
+ZCZC W03 60 L15 Finish Assignment #05
+ZCZC W03 30 L41 Do Week02 mylog.txt
+ZCZC W03 200 L06 Watching videos and studying about Cyber Security, Regex, etc.
+ZCZC W03 150 L05 Studies for quiz and checked that there is no quiz
+ZCZC W03 100 L02 Class at 18-09-2024
+
 ZCZC W02 20 L11 Finish Assignment #01
 ZCZC W02 20 L12 Finish Assignment #02
 ZCZC W02 10 L13 Finish Assignment #03
