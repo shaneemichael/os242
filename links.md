@@ -46,7 +46,18 @@ permalink: LINKS/
 * [Assignment](https://demos.vlsm.org/)
 
   Assignment to boost your understanding on the material.
-  
+
+## Week 04 ##
+* [Backup VirtualBox](https://youtu.be/i0-0dVyGBVw?si=Or2zikIkmdzLavdH)
+
+  Steps on how to backup VirtualBox the easy way.
+* [Setup Shared Memory in Linux](https://youtu.be/WgVSq-sgHOc?si=1wgwJoSaUmtAdpC1)
+
+  Steps on how to set up shared memory in Linux
+* [Assignment](https://demos.vlsm.org/)
+
+  Assignment to boost your understanding on the material.
+
 <br>
 <br>
 <hr>
