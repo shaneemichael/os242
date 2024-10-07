@@ -58,6 +58,21 @@ permalink: LINKS/
 
   Assignment to boost your understanding on the material.
 
+## Week 05 ##
+* [C Memory Addressing](https://youtu.be/1KVpi0VN82E?si=pcFKkVFGFYtocess)
+
+  Learn C memory addressing in only 7 minutes.
+* [Concept of Thrashing](https://youtu.be/mIJIDC-u8JU?si=kCfACM8dMxM7Yv6Q)
+
+  Brief Explanation of Thrashing.
+* [Page Replacement Algorithm | FIFO](https://youtu.be/16kaPQtYo28?si=N4xXabh9W2gcmI9E)
+
+  Explanation of FIFO Page Replacement.
+* [Assignment](https://demos.vlsm.org/)
+
+  Assignment to boost your understanding on the material. 
+  
+
 <br>
 <br>
 <hr>
