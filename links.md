@@ -72,7 +72,17 @@ permalink: LINKS/
 
   Assignment to boost your understanding on the material. 
   
+## Week 06 ##
+* [Threads and Concurrency](https://youtu.be/olYdb0DdGtM?si=TYoH817hPwOy0T7O)
 
+  Short Explanation about Threads and Concurrency
+* [Fork and Exec System Call](https://youtu.be/IFEFVXvjiHY?si=SLaXxBPJlsjiAg1v)
+
+  Short Explanation about Fork and Exec System Call
+
+* [Assignment](https://demos.vlsm.org/)
+
+  Assignment to boost your understanding on the material.
 <br>
 <br>
 <hr>
