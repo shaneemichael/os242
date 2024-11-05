@@ -83,6 +83,17 @@ permalink: LINKS/
 * [Assignment](https://demos.vlsm.org/)
 
   Assignment to boost your understanding on the material.
+
+## Week 07 ##
+* [Deadlock in Operating System](https://youtu.be/onkWXaXAgbY?si=Cm3y-Q9j-eqowN59)
+
+  Short Explanation about Deadlock
+* [Critical Section Problem](https://youtu.be/UtEORPakw5Y?si=y9FuryNUnDucJYhk)
+
+  Short Explanation about Critical Section
+* [Assignment](https://demos.vlsm.org/)
+
+  Assignment to boost your understanding on the material.
 <br>
 <br>
 <hr>
