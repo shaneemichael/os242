@@ -94,6 +94,17 @@ permalink: LINKS/
 * [Assignment](https://demos.vlsm.org/)
 
   Assignment to boost your understanding on the material.
+
+## Week 08 ##
+* [Introduction to CPU Scheduling](https://youtu.be/EWkQl0n0w5M?si=KpItWjx33KI0dqiA)
+
+  Explanation about CPU Scheduling
+* [CPU and I/O Burst Cycles](https://youtu.be/pVzb3TUcDLo?si=2BKcTEAPBgynAwN-)
+
+  Explanation about CPU and I/O Burst Cycles
+* [First Come First Served](https://youtu.be/7DoP1L9nAAs?si=Z9sei1Er1fpiWWiB)
+
+  Explanation about one of scheduling algorithms out there - First Come First Served
 <br>
 <br>
 <hr>

@@ -2,6 +2,29 @@
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://doit.vlsm.org/ETC/logCodes.txt
 
+ZCZC W08 15 L11 Finish Assignment #01
+ZCZC W08 30 L12 Finish Assignment #02
+ZCZC W08 100 L13 Finish Assignment #03
+ZCZC W08 10 L14 Finish Assignment #04
+ZCZC W08 360 L15 Finish Assignment #05
+ZCZC W08 60 L99 Final Check
+ZCZC W08 5 L03 GitHub and git related, including commit, push, pull
+ZCZC W08 30 L41 Do Week06 mylog.txt
+ZCZC W08 20 L00 GSGS for Backing Up and Assignment
+ZCZC W08 100 L05 Studies for quiz
+ZCZC W08 40 L88 Workout/Sport/Exercise
+ZCZC W08 50 L21 Trying Something
+ZCZC W08 15 L25 C-language including Make
+ZCZC W08 5 L31 VirtualBox: install GNU/Linux, etc.
+ZCZC W08 10 L43 TXT/myrank.txt related, including peer review.
+ZCZC W08 50 L08 OS Chat related (WA, LINE, Telegram, Signal) with AsDos, Friend, etc.
+ZCZC W08 20 L64 Helping a friend (OS related problem)
+ZCZC W08 50 L81 Listening: Radio, Music, etc.
+ZCZC W08 3 L26 GnuPG, key-gen, encrypt/decrypt.
+ZCZC W08 50 L06 Reading general knowledge about OS
+ZCZC W08 5 L45 TXT/SHA256SUM related
+ZCZC W08 100 L80 Watching: Movie, YouTube, TV, Netflix, etc.
+
 ZCZC W07 15 L11 Finish Assignment #01
 ZCZC W07 30 L12 Finish Assignment #02
 ZCZC W07 100 L13 Finish Assignment #03
